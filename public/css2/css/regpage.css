@@ -1,0 +1,60 @@
+body{
+
+    background-image: url("Background_0202.png");
+    /*background-size : 1500px;*/
+}
+
+.navbar
+{
+    background-color: #120264;
+    margin-bottom: 1px;
+}
+.mynav
+{
+    color: #d4f8f6;
+}
+
+.create
+{
+    color: #120264;
+    padding: 5px;
+}
+
+.company_name
+{
+    color: #f5da90;
+    text-align: center;
+    background-image: url("liberty_tag.jpg");
+    background-size: cover;
+    padding: 0px;
+    border: 10px;
+    height: 80px;
+    margin-bottom: 5px;
+}
+.menu
+{
+    color: red;
+    text-shadow: 5px;
+    width: 30%;
+    height: 300px;
+    float: left;
+}
+.company
+{
+    color: #1f0368;
+}
+.myfoot
+{
+    color: red;
+}
+
+
+.big-wrapper
+{
+    margin:0px auto;
+    padding: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+

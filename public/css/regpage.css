@@ -1,0 +1,73 @@
+body{
+
+    background-image: url("Background_0202.png");
+    /*background-size : 1500px;*/
+}
+
+.navbar
+{
+    background-color: #340103;
+    margin-bottom: 1px;
+}
+
+.mynav
+{
+    color: #d4f8f6;
+}
+
+.create
+{
+    color: #120264;
+    padding: 5px;
+}
+
+.company_name
+{
+    color: #f5da90;
+    text-align: center;
+    background-image: url("liberty_tag.jpg");
+    background-size: 100% 100% ;
+    background-repeat: no-repeat; 
+    padding: 30px;
+    margin-bottom: 2px;
+}
+.menu
+{
+    color: red;
+    text-shadow: 5px;
+    width: 30%;
+    height: 300px;
+    float: left;
+}
+.company
+{
+    color: #1f0368;
+}
+.myfoot
+{
+    color: red;
+}
+
+
+.big-wrapper
+{
+    margin:0px auto;
+    padding: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.carousel-inner .carousel-item {
+  transition: -webkit-transform 2s ease;
+  transition: transform 2s ease;
+  transition: transform 2s ease, -webkit-transform 2s ease;
+}
+/*
+.carousel-inner .item {
+    position: relative;
+    display: none;
+    -webkit-transition: 0.6s ease-in-out left;
+    -moz-transition: 0.6s ease-in-out left;
+    -o-transition: 0.6s ease-in-out left;
+    transition: 0.6s ease-in-out left;
+}
+*/

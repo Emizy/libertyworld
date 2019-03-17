@@ -1,0 +1,23 @@
+body{
+    background-color: mistyrose ;
+
+}
+
+.company
+{
+    color: #d9edf7 ;
+    background-color: darkred;
+    alignment: center;
+    padding: 5px;
+    text-align: center;
+}
+
+.studform{
+    width: 600px;
+    margin: 0px auto;
+    border : 2px solid #761c19;
+    padding: 10px;
+    background-size: 650px;
+    background-position: center;
+    background-color: papayawhip;
+}
